@@ -1,7 +1,7 @@
 /********************************************************
 *           Pontificia Universidad Javeriana            *
 *                                                       *
-*   Autor: David Esteban Beltrán Gómez                  *
+*   Autor: Xamuel Perez Madrigal                        *
 *   Fecha: 13 Noviembre 2025                            *
 *   Materia: Sistemas Operativos                        *
 *   Tema: OpenMP                                        *
