@@ -1,6 +1,6 @@
 ##############################################
 #		Pontificia Universidad Javeriana
-# Autores: David Beltran Gomez, Xamuel Pérez Hernández, Juan Gomez Lopez
+# Autores: David Beltran Gomez, Xamuel Pérez Madrigal, Juan Gomez Lopez
 # Materia: Sistemas Operativos
 # Taller 03 - Actividad 2: Sincro POSIX (Threads)
 # Fichero: Automaticación Compilación
